@@ -1,0 +1,2 @@
+# Sensitive database connections
+nvim/lua/db/connections.lua
