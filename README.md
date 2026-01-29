@@ -1,5 +1,4 @@
-# Neovim Dotfiles
-
+💤 LazyVim Dotfiles
 My personal Neovim configuration based on [LazyVim](https://github.com/LazyVim/LazyVim).
 
 ## Features
